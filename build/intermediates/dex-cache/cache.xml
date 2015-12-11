@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/core-3.2.1-0df61e7f750dc158ebcad3371526a00537f30390.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/classes-de5db69b8f9220ff28c6bd562c8a07fc2158e5eb.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/classes-40a4fead5d15ed90de6a2221f9c096240fd44f96.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1bfe1cf652c5fe0f666ea9c9d8a4fd2db1b40a11">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/classes-f1eaddeb2fb24b12a7446579be3f37ebf13134ae.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/pre-dexed/debug/classes-014b0e1cfc9537552f48c8c9c51d36c951b0601a.jar" />
+    </item>
+    <item
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/okio-1.6.0-d0480f5bf6a09ed02d9fa23c131a88545c561541.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/classes-63c9960559f82920cda1cd50dcbad787d2e55993.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/pre-dexed/debug/classes-62227a4b99b336335f7cb46bb7f26ecfeea83ae8.jar" />
+    </item>
+    <item
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-c357fe0eafe4da2d99b90bd66a57d0bf8a9db6ba.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/Graduation.libraries/tess-two/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffdab2ae7b4b216d9385d95a2ea345a2ddc3de9f">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/classes-e8b13a84343d4719c5421b0caeabfe4482f8a362.jar" />
+    </item>
+    <item
+        jar="/Users/pro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.6.0/212387a39088ecd3daff8e3bfc3bdc4123e33c67/okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/okhttp-2.6.0-669c5026bf8a10bed1f1d781231649200025d290.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-1504779d12f31b58d0cd920ff18b1b5e61f66a2f.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/myapplication/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-cb5e0f935aab99d81f00d6eac85fe4d6e715128e.jar" />
+    </item>
+    <item
+        jar="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-eb1a1e01b32da71a1d401fc8edf39f1fb79781f4.jar" />
+    </item>
+
+</items>

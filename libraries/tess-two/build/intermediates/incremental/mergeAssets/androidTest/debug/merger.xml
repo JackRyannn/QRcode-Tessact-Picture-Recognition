@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/libraries/tess-two/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/pro/Development/adt-bundle-mac-x86_64-20131030/sdk/samples/android-21/Graduation/libraries/tess-two/src/androidTest/assets"/></dataSet></merger>
