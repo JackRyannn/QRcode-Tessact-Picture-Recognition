@@ -28,15 +28,6 @@
         android:layout_alignParentEnd="true" />
 
 
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/img_upload"
-        android:scaleType="centerInside"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@+id/button4" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -44,4 +35,6 @@
         android:id="@+id/button4"
         android:layout_below="@+id/button3"
         android:layout_centerHorizontal="true" />
+
+
 </RelativeLayout>

@@ -27,8 +27,8 @@ import butterknife.OnClick;
 public class OcrActivity extends Activity {
     @OnClick(R.id.takepic)
     void takepic() {
-        Intent intent = new Intent(this,CameraActivity.class);
-        startActivityForResult(intent, 0);
+//        Intent intent = new Intent(this,CameraActivity.class);
+//        startActivityForResult(intent, 0);
     }
 
     @OnClick(R.id.pickpic)
